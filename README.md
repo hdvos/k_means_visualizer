@@ -1,6 +1,6 @@
 # k-means plotter
 
-A function that visualises k means clustering.
+A function that visualises k means clustering in a gif image.
 
 ![image text](https://raw.githubusercontent.com/hdvos/k_means_visualizer/master/figures_examples/iris_k3.gif "Iris dataset example")
 
