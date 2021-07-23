@@ -2,8 +2,6 @@
 
 A function that visualises k means clustering.
 
-This is a project I work on in my free time, so no guarantees etc.
-
 ## Usage
     
     from kmeans_plotter import k_means_gif
