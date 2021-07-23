@@ -2,6 +2,8 @@
 
 A function that visualises k means clustering.
 
+![image text](https://raw.githubusercontent.com/hdvos/k_means_visualizer/master/figures_examples/iris_k3.gif "Iris dataset example")
+
 ## Usage
     
     from kmeans_plotter import k_means_gif
