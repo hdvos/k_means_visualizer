@@ -54,6 +54,8 @@ Things I want to improve if I find time and motivation. (You can also send a pul
 - Optimize for speed.
 - Use a proper way to calculate the distance between centroids.
 - Implement in matplotlib so it also works when bokeh is not installed.
+- Use a more clear color scheme.
+- Add parameters for the speed of the gif.
 
 ## Feedback
 
